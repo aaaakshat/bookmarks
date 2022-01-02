@@ -1,6 +1,6 @@
-# Jots
+# Bookmarks 
 
-Some interesting things I've jotted down.
+Some interesting things
 
 
 ## Urbit
